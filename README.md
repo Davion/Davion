@@ -4,10 +4,24 @@
 Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Germany.
 
  * :hammer: I’m currently working on small projects to put on GitHub.
- * :open_book: I’m currently learning Spring Framework & Angular.
+ * :open_book: I’m currently learning Spring Framework <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-spring-logo.svg">
+ & Angular <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-angularjs.svg">.
  
- **Languages and Tools:**
+ **Languages:**
  
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-javascript.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-html-5.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-css3.svg"></code>
+ 
+ **Tools:**
+ 
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-intellij-idea.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java-eclipse.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-postgresql.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-dbeaver.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-gitlab.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-github.svg"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
