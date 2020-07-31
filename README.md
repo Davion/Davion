@@ -14,7 +14,7 @@ Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Ge
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-html-5.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-css3.svg"></code>
  
- **Tools:**
+ **Tools & Technologies:**
  
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-intellij-idea.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java-eclipse.svg"></code>
@@ -22,6 +22,7 @@ Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Ge
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-dbeaver.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-gitlab.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-github.svg"></code>
+ <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/linux-original.svg"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
