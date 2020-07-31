@@ -1,7 +1,7 @@
 
 ## **Hello, I'm Klajdi!**  :wave: :man_technologist:
 
-Hi, I'm Klajdi Hoxha, a passionate software developer from Albania ![Albania's flag icon](assets/al.png), living in Germany, ![Germany's flag icon](assets/de.png).
+Hi, I'm Klajdi Hoxha, a passionate software developer from Albania ![Albania's flag icon](https://commons.wikimedia.org/wiki/File:Flag_of_Albania.svg), living in Germany, ![Germany's flag icon](assets/de.png).
 
  * :hammer: I’m currently working on small projects to put on GitHub.
  * :open_book: I’m currently learning Spring Framework & Angular.
