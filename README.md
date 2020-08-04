@@ -11,7 +11,10 @@ Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Ge
  
  <a href="https://www.linkedin.com/in/klajdi-hoxha-02401216a/">
   <img align="left" alt="Klajdi Hoxha | LinkedIn" width="20px" src="https://github.com/Davion/Davion/blob/master/assets/linkedin-original.svg" />
-</a>
+ </a>
+ 
+ <br />
+ <br />
  
  **Languages & Tools:**
  
