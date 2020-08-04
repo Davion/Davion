@@ -7,14 +7,18 @@ Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Ge
  * :open_book: I’m currently learning Spring Framework <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-spring-logo.svg">
  & Angular <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-angularjs.svg">.
  
- **Languages:**
+ **Connect with me:**
+ 
+ <a href="https://www.linkedin.com/in/klajdi-hoxha-02401216a/">
+  <img align="left" alt="Klajdi Hoxha | LinkedIn" width="20px" src="https://github.com/Davion/Davion/blob/master/assets/linkedin-original.svg" />
+</a>
+ 
+ **Languages & Tools:**
  
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-javascript.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-html-5.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-css3.svg"></code>
- 
- **Tools & Technologies:**
  
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-intellij-idea.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java-eclipse.svg"></code>
