@@ -4,8 +4,7 @@
 Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Germany.
 
  * :hammer: I’m currently working on my portofolio page.
- * :open_book: I’m currently learning Spring Framework <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-spring-logo.svg">
- & Angular <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-angularjs.svg">.
+ * :open_book: I’m currently learning Angular <img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-angularjs.svg">.
  
  **Connect with me:**
  
