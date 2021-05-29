@@ -23,7 +23,6 @@ Hi, I'm Klajdi Hoxha, a passionate software developer from Albania, living in Ge
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-css3.svg"></code>
  
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-intellij-idea.svg"></code>
- <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-java-eclipse.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-postgresql.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-dbeaver.svg"></code>
  <code><img height="20" src="https://github.com/Davion/Davion/blob/master/assets/icons8-gitlab.svg"></code>
